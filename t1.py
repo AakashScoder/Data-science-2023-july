@@ -1,0 +1,21 @@
+from turtle import*
+
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+fd(135)
+lt(45)
+
+hideturtle()
+mainloop()
